@@ -2,5 +2,4 @@
 
 Click here to see [Output](https://webapi-inesikirezi.netlify.app)
 
-
-_hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh_
+This web application fetches all World countries information from the API
